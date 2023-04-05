@@ -1,0 +1,37 @@
+Hola mi nombre es Gerardo Daniel Gans , este es mi github sobre lo aprendido
+
+dia 1 git github resumen a lo Ger :
+ github es un portal que permite alojar codigos y projectos 
+ git es una herramienta para actualizarlo
+
+comandos vistos 
+
+git config --global credential.helper wincred (use yo para windows SO)
+
+git config --global user.name “nombre propio”
+
+git config --global user.email "mi@mail.com" 
+
+...
+color.diff=auto
+color.status=auto
+...
+user.name=nombre propio
+user.email=mi@mail.com
+
+git init ( le da arranque) 
+git remote add <alias de github> <link de lo creado en github>(vincula local con remoto) 
+git remote add origin(oalias) <lo que se copia con el .git al final> lo mesmo
+
+git status ( si esta todo joya)
+
+git add <archivo> (si sos especifico en lo actualizado para pre-mandar)
+git add . (pre-prepara para mandar todo) 
+
+git commit -m "mensaje de confirmación" (recien ahi lo prepara para mandar a github) 
+
+git push origin(o alias) main (manda todo a tu main branch o podes elegirla )
+
+eso entendo hasta el momento 
+
+
