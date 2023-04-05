@@ -33,5 +33,6 @@ git commit -m "mensaje de confirmación" (recien ahi lo prepara para mandar a git
 git push origin(o alias) main (manda todo a tu main branch o podes elegirla )
 
 eso entendo hasta el momento 
+revisar comandos
 
 
